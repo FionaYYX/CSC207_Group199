@@ -16,7 +16,7 @@ public abstract class DropBoxAPI {
     /**
      * String containing the access token for all Dropbox API calls.
      */
-    public static String APIToken = "Bearer sl.BrSCgUAdTkZzNumKpvk0Htr2oAhK9YoyYI2yT_cWQyKuF4sFuoHNYflOiG7mwdWVr0MGxacsqJs6Ryl31GyRcdIp1p3bRbl9sAB3K_VjXzdmMMIgCVRHf8d2ZuXuIvoU24bsT7a-a1knkX4JGlPQWmQ";
+    public static String APIToken = "Bearer sl.BrSslDxRCfI2inLkiqYe5LVyhct3nlTlrZM6V2vLHZ8rGJeHrwUe2eFAl-qa5cydcw9AufGJcPOWs-4o8hwfOASALYsHoO-1Fgesr07Zb7QTm872hbWx_OfqLydcHfMZ1fmJAPJYICTSHyYZ0eF-vJo";
     /**
      * Class to initialize request body and logger for use in all API subclasses.
      */
